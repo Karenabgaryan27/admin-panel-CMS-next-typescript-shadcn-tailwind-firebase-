@@ -30,8 +30,8 @@ export const metadata: Metadata = {
   title: "Website",
   description: "Your website description",
   icons: {
-    icon: [{ rel: "icon", url: "/assets/images/favicon.svg" }],
-    apple: "/assets/images/favicon.svg",
+    icon: [{ rel: "icon", url: "/assets/images/favicon.png" }],
+    apple: "/assets/images/favicon.png",
   },
   openGraph: {
     title: "Website",
